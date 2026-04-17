@@ -1,0 +1,6 @@
+# Ignorar los archivos .o
+*.o
+
+# Ignorar el directorio build
+build/
+imgui.ini

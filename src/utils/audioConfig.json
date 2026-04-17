@@ -1,0 +1,13 @@
+{
+    "banks": [
+        "assets/sonidos/Build/Desktop/Master.strings.bank",
+        "assets/sonidos/Build/Desktop/Master.bank",
+        "assets/sonidos/Build/Desktop/EscenaWin.bank",
+        "assets/sonidos/Build/Desktop/EscenaMenu.bank",
+        "assets/sonidos/Build/Desktop/EscenaGameplay.bank",
+        "assets/sonidos/Build/Desktop/EscenaGameOver.bank"
+
+    ],
+    "logging": true,
+    "globalVolume": 1.0
+}
